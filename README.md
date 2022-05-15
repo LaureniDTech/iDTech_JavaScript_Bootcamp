@@ -1,2 +1,2 @@
 # JavaScript Bootcamp
-This is my work for JavaScript Bootcamp with IdTech
+Hello, this is my portfolio for JavaScript Bootcamp
